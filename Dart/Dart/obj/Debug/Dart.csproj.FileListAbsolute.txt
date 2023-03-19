@@ -1,0 +1,8 @@
+C:\Users\zapar\source\repos\Dart\Dart\bin\Debug\Dart.exe.config
+C:\Users\zapar\source\repos\Dart\Dart\bin\Debug\Dart.exe
+C:\Users\zapar\source\repos\Dart\Dart\bin\Debug\Dart.pdb
+C:\Users\zapar\source\repos\Dart\Dart\obj\Debug\Dart.csproj.AssemblyReference.cache
+C:\Users\zapar\source\repos\Dart\Dart\obj\Debug\Dart.csproj.SuggestedBindingRedirects.cache
+C:\Users\zapar\source\repos\Dart\Dart\obj\Debug\Dart.csproj.CoreCompileInputs.cache
+C:\Users\zapar\source\repos\Dart\Dart\obj\Debug\Dart.exe
+C:\Users\zapar\source\repos\Dart\Dart\obj\Debug\Dart.pdb
